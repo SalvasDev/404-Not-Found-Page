@@ -51,7 +51,7 @@ img {
 
 h1 {
     font-size: 2.4rem;
-    margin: 4rem auto 26.5rem 0 ;
+    margin: 4rem auto 20.5rem 0 ;
 }
 
 h2 {
@@ -61,7 +61,7 @@ h2 {
 
 p {
     color: var(--gray);
-    max-width: 60%;
+    max-width: 70%;
     font-size: 24px;
     margin-bottom: 6.4rem;
     font-weight: 400;
@@ -72,7 +72,7 @@ p {
 footer p {
     color: var(--grayLight);
     text-align: center;
-    margin: 20rem auto 0 auto;
+    margin: 23rem auto 0 auto;
     font-size: 1.4rem;
 }
 
@@ -90,7 +90,7 @@ footer p {
     }
 
     footer p {
-            margin: 9rem auto 0 auto;
+            margin: 11rem auto 0 auto;
             font-size: 1rem;
     }
 
